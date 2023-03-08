@@ -34,7 +34,7 @@ unit=SolM*G/(c**3) #Conversion of mass to seconds
 ##############################################################################
 ###      SECTION 1 - SIMULATING THE DATA
 ##Load the data from the output of class
-data = np.loadtxt( "/Users/richard/Library/Mobile Documents/com~apple~CloudDocs/Documents/Python/Codes/lcdm00_background.dat" )
+data = np.loadtxt( "lcdm00_background.dat" )
 ## Determine the range of redhsift we are interested in
 
 
